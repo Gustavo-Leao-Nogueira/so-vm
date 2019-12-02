@@ -1,0 +1,26 @@
+--2019-12-02 10:29:09--  http://encurtador.com.br/hELQY
+Resolvendo encurtador.com.br (encurtador.com.br)... 104.24.109.23, 104.24.108.23, 2606:4700:30::6818:6d17, ...
+Conectando-se a encurtador.com.br (encurtador.com.br)|104.24.109.23|:80... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 301 Moved Permanently
+Localização: https://www.encurtador.com.br/hELQY [redirecionando]
+--2019-12-02 10:29:10--  https://www.encurtador.com.br/hELQY
+Resolvendo www.encurtador.com.br (www.encurtador.com.br)... 104.24.109.23, 104.24.108.23, 2606:4700:30::6818:6c17, ...
+Conectando-se a www.encurtador.com.br (www.encurtador.com.br)|104.24.109.23|:443... conectado.
+AVISO: não foi possível verificar o certificado de www.encurtador.com.br, emitido por “CN=10.254.254.1,O=SENAC,ST=RS,C=BR”:
+  Foi encontrado um certificado auto-assinado.
+A requisição HTTP foi enviada, aguardando resposta... 302 Moved Temporarily
+Localização: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/09/esquilo-1280x720.jpg [redirecionando]
+--2019-12-02 10:29:11--  https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/09/esquilo-1280x720.jpg
+Resolvendo cdn-istoe-ssl.akamaized.net (cdn-istoe-ssl.akamaized.net)... 189.72.175.90, 189.72.175.88, 2600:1419:16:201::c99f:9e98, ...
+Conectando-se a cdn-istoe-ssl.akamaized.net (cdn-istoe-ssl.akamaized.net)|189.72.175.90|:443... conectado.
+AVISO: não foi possível verificar o certificado de cdn-istoe-ssl.akamaized.net, emitido por “CN=10.254.254.1,O=SENAC,ST=RS,C=BR”:
+  Foi encontrado um certificado auto-assinado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 82567 (81K) [image/jpeg]
+Salvando em: “hELQY.1”
+
+     0K .......... .......... .......... .......... .......... 62% 1,46M 0s
+    50K .......... .......... ..........                      100% 5,44M=0,04s
+
+2019-12-02 10:29:12 (2,02 MB/s) - “hELQY.1” salvo [82567/82567]
+
